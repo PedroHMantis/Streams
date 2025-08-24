@@ -8,3 +8,12 @@ fornecido pelo usuário.
 Mostrar também a soma dos salários dos funcionários cujo
 nome começa com a letra 'M'.
 Veja exemplo na próxima página
+
+
+Input file:
+
+Maria,maria@gmail.com,3200.00
+Alex,alex@gmail.com,1900.00
+Marco,marco@gmail.com,1700.00
+Bob,bob@gmail.com,3500.00
+Anna,anna@gmail.com,2800.00
